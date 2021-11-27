@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akelio-zhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=akelio-zhang.README.md)
