@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akelio-zhang&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akelio-zhang&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=akelio-zhang.README.md)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2026%20mins-blue)
 
@@ -42,4 +43,3 @@ IntelliJ                 3 mins              █░░░░░░░░░░�
  Last Updated on 27/01/2022 01:29:28 UTC
 <!--END_SECTION:waka-->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=akelio-zhang.README.md)
