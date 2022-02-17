@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=akelio-zhang.README.md)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%209%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -35,6 +33,6 @@ VS Code                  18 mins             ███████████�
 ```
 
 
- Last Updated on 16/02/2022 01:38:28 UTC
+ Last Updated on 17/02/2022 01:20:54 UTC
 <!--END_SECTION:waka-->
 
