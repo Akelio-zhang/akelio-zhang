@@ -21,20 +21,24 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=akelio-zhang.README.md)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2052%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.0%
+Python                   4 mins              ███████████████████░░░░░░   77.92% 
+Go                       0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
+INI                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+VS Code                  5 mins              ████████████████████░░░░░   82.5% 
+Vim                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.5%
 
 ```
 
 
- Last Updated on 03/03/2022 01:46:39 UTC
+ Last Updated on 04/03/2022 01:51:07 UTC
 <!--END_SECTION:waka-->
 
