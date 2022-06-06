@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akelio-zhang&card_width=240&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=akelio-zhang.README.md)
+![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
