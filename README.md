@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Text                     32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 20/06/2022 02:23:49 UTC
+ Last Updated on 21/06/2022 02:25:45 UTC
 <!--END_SECTION:waka-->
 
