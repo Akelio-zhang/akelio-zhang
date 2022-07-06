@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -35,6 +33,6 @@ VS Code                  46 mins             ███████████�
 ```
 
 
- Last Updated on 06/07/2022 02:44:24 UTC
+ Last Updated on 06/07/2022 10:22:11 UTC
 <!--END_SECTION:waka-->
 
