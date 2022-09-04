@@ -21,22 +21,7 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Go                       4 hrs 24 mins       ███████████████░░░░░░░░░░   62.24% 
-Other                    1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.6% 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11% 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
-
-🔥 Editors: 
-VS Code                  7 hrs 4 mins        █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 03/09/2022 02:52:32 UTC
+ Last Updated on 04/09/2022 03:03:39 UTC
 <!--END_SECTION:waka-->
 
