@@ -21,7 +21,19 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/09/2022 03:15:45 UTC
+```text
+💬 Programming Languages: 
+Other                    1 hr 31 mins        █████████████████░░░░░░░░   68.59% 
+Text                     41 mins             ███████░░░░░░░░░░░░░░░░░░   31.41%
+
+🔥 Editors: 
+VS Code                  2 hrs 13 mins       █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 16/09/2022 03:16:04 UTC
 <!--END_SECTION:waka-->
 
