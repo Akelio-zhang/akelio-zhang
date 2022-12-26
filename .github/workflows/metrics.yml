@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 1 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
 jobs:
@@ -25,7 +25,7 @@ jobs:
           # Options
           user: akelio-zhang
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           # Language
           plugin_languages: yes
