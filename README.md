@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 📫 Twitter: [@akelio_cn](https://twitter.com/akelio_cn)
 - ✨ Blog: [Life Coder](https://akelio-zhang.github.io/)
 
+![Metrics](/github-metrics.svg)
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akelio-zhang&line_height=24&hide=contribs&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
