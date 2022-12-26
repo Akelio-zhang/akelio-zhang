@@ -25,21 +25,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Clojure                  1 min               █████████████████░░░░░░░░   68.45% 
-Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.81% 
-Text                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   10.74%
-
-🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 26/12/2022 01:48:42 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
