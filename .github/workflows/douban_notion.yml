@@ -3,6 +3,8 @@ name: douban_notion
 on: 
   schedule:
   - cron: "0 1 * * *"
+  
+  workflow_dispatch: 
 
 jobs:
   douban:
