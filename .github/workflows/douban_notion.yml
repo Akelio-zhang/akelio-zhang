@@ -1,8 +1,8 @@
 # .github/workflows/douban.yml
 name: douban_notion
 on: 
-#  schedule:
-#  - cron: "0 1 * * *"
+  schedule:
+  - cron: "0 3 * * *"
   
   workflow_dispatch: 
 
