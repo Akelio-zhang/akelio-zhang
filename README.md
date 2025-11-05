@@ -31,7 +31,18 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
+```text
+💬 Programming Languages: 
+Markdown                 9 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  9 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/11/2025 14:41:07 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
