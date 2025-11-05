@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 **📈 Stats**:
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=akelio-zhang&hide=contribs&show_icons=true&count_private=true&theme=tokyonight" alt="akelio's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akelio-zhang&layout=compact&hide=html&theme=tokyonight" alt="Top Langs" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akelio-zhang&hide=contribs&show_icons=true&count_private=true&theme=tokyonight" alt="akelio's GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akelio-zhang&layout=compact&hide=html&theme=tokyonight" alt="Top Langs" width="33.2%"/>
 </div>
 
 
-
+<!--
 ![Metrics](/github-metrics.svg)
+-->
 
 <!--START_SECTION:waka-->
 
