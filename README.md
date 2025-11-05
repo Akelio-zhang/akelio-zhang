@@ -17,12 +17,17 @@ Here are some ideas to get you started:
 - 📫 Twitter: [@akelio_cn](https://twitter.com/akelio_cn)
 - ✨ Blog: [Life Coder](https://akelio-zhang.github.io/)
 
-![Metrics](/github-metrics.svg)
 
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akelio-zhang&line_height=24&hide=contribs&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akelio-zhang&card_width=240&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
--->
+**📈 Stats**:
+
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=akelio-zhang&hide=contribs&show_icons=true&count_private=true&theme=tokyonight" alt="akelio's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akelio-zhang&layout=compact&hide=html&theme=tokyonight" alt="Top Langs" width="37%" />
+</div>
+
+
+
+![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
 
