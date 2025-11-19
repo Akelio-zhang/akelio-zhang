@@ -35,14 +35,15 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 mins             █████████████████████████   100.00 % 
+Markdown                 13 mins             ██████████████████████░░░   87.12 % 
+HTML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/11/2025 02:14:30 UTC
+ Last Updated on 19/11/2025 02:13:35 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
