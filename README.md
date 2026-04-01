@@ -35,19 +35,19 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Astro                    25 mins             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-JSON                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-C                        9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-SCSS                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Rust                     1 hr 34 mins        ████████████░░░░░░░░░░░░░   47.65 % 
+Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+C                        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Assembly                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████░░░░   82.96 % 
-Neovim                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+VS Code                  2 hrs 53 mins       ██████████████████████░░░   87.54 % 
+Neovim                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 ```
 
 
- Last Updated on 31/03/2026 03:28:17 UTC
+ Last Updated on 01/04/2026 03:43:56 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
