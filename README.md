@@ -35,19 +35,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 9 mins        █████████████████░░░░░░░░   69.35 % 
-Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Java                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Markdown                 8 hrs 10 mins       ████████████████░░░░░░░░░   63.58 % 
+Other                    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Java                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 13 mins      █████████████████████████   99.10 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+VS Code                  12 hrs 10 mins      ████████████████████████░   94.80 % 
+Unknown Editor           34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 
- Last Updated on 13/04/2026 03:50:48 UTC
+ Last Updated on 14/04/2026 03:38:49 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
