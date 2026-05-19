@@ -31,8 +31,24 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 18/05/2026 04:39:37 UTC
+```text
+💬 Programming Languages: 
+Markdown                 4 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+Python                   3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+HTML                     2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+
+🔥 Editors: 
+Unknown Editor           13 hrs 30 mins      ███████████████████░░░░░░   75.63 % 
+VS Code                  3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Neovim                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+```
+
+
+ Last Updated on 19/05/2026 04:22:44 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
