@@ -35,20 +35,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   34.97 % 
-Python                   1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.00 % 
-TOML                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-C                        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Python                   56 mins             ████████░░░░░░░░░░░░░░░░░   31.61 % 
+TOML                     48 mins             ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+SRecode Template         14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+C                        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 55 mins       ██████████████░░░░░░░░░░░   57.64 % 
-VS Code                  1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   37.56 % 
-Neovim                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Claude Code              1 hr 34 mins        █████████████░░░░░░░░░░░░   53.56 % 
+VS Code                  1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   39.40 % 
+Neovim                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
 
 
- Last Updated on 22/05/2026 04:33:40 UTC
+ Last Updated on 23/05/2026 04:05:52 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
