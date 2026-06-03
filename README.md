@@ -35,21 +35,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.79 % 
-Rust                     3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-Markdown                 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Typst                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Python                   3 hrs 54 mins       ████████████░░░░░░░░░░░░░   47.60 % 
+Rust                     1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Typst                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-Unknown Editor           4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.82 % 
-VS Code                  3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.29 % 
-Claude Code              3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Unknown Editor           4 hrs 30 mins       ██████████████░░░░░░░░░░░   54.18 % 
+VS Code                  3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.62 % 
+Neovim                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 
- Last Updated on 02/06/2026 04:58:30 UTC
+ Last Updated on 03/06/2026 05:13:09 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
