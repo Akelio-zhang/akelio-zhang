@@ -35,20 +35,14 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 30 mins             ██████████░░░░░░░░░░░░░░░   40.49 % 
-Python                   12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-TOML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 12 mins        ████████████████████████░   95.66 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/06/2026 05:25:45 UTC
+ Last Updated on 16/06/2026 05:28:49 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
