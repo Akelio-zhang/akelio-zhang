@@ -37,46 +37,45 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.81 % 
-Bash                     1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Rust                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Markdown                 1 hr 35 mins        ███████████░░░░░░░░░░░░░░   44.21 % 
+Bash                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Rust                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Java                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       ██████████████░░░░░░░░░░░   57.09 % 
-Codex Vscode             2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.40 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+VS Code                  2 hrs 3 mins        ██████████████░░░░░░░░░░░   57.43 % 
+Codex Vscode             1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   38.77 % 
+Neovim                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 15 mins (81.93%)
+⏱ AI Coding Time: 2 hrs 54 mins (81.21%)
 
-✍️ 7,602 lines written by AI, 16 lines written by hand (99.79% AI-written)
+✍️ 4,106 lines written by AI, 7 lines written by hand (99.83% AI-written)
 
-🔤 2,929,210 Input Tokens, 554,428 Output Tokens
+🔤 1,377,039 Input Tokens, 355,240 Output Tokens
 
-💵 $154.19 Estimated AI Cost This Week
+💵 $125.99 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 104 AI Prompts
+🧠 9 AI Sessions, 55 AI Prompts
 
-GPT                      4,707 lines         █████████████░░░░░░░░░░░░   51.09 % 
-Deepseek                 4,506 lines         ████████████░░░░░░░░░░░░░   48.91 % 
+Deepseek                 4,243 lines         ██████████████████░░░░░░░   73.41 % 
+GPT                      1,537 lines         ███████░░░░░░░░░░░░░░░░░░   26.59 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📚 Verbose Prompter — average 5,050 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 4,468 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.36% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 01:48:50 UTC
+ Last Updated on 21/08/2026 01:55:17 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
