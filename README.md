@@ -31,51 +31,51 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
-Bash                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-HTML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Markdown                 4 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
+Bash                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+HTML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Swift                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 16 mins       ███████████████░░░░░░░░░░   60.28 % 
-Neovim                   2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-VS Code                  1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Codex Vscode             7 hrs 56 mins       ███████████████░░░░░░░░░░   58.89 % 
+Neovim                   3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+VS Code                  1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 22 mins (94.21%)
+⏱ AI Coding Time: 12 hrs 47 mins (94.82%)
 
-✍️ 9,528 lines written by AI, 6 lines written by hand (99.94% AI-written)
+✍️ 9,651 lines written by AI, 78 lines written by hand (99.2% AI-written)
 
-🔤 4,687,387 Input Tokens, 1,023,630 Output Tokens
+🔤 5,216,220 Input Tokens, 1,074,124 Output Tokens
 
-💵 $104.54 Estimated AI Cost This Week
+💵 $109.03 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 206 AI Prompts
+🧠 65 AI Sessions, 275 AI Prompts
 
-GPT                      7,536 lines         ████████████████████░░░░░   78.74 % 
-Glm                      1,291 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Deepseek                 664 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Codex-Vscode             80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+GPT                      7,650 lines         ████████████████████░░░░░   78.31 % 
+Glm                      1,375 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Deepseek                 664 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Codex-Vscode             80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 6,622 characters per prompt
+🤖 AI-Driven — 99.2% of written lines came from AI
+📚 Verbose Prompter — average 6,487 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🚀 High AI Trust — 0.86% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 05:32:09 UTC
+ Last Updated on 06/10/2026 06:15:01 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
