@@ -37,46 +37,42 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 54 mins             ██████████░░░░░░░░░░░░░░░   41.66 % 
-JavaScript               29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-JSON                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Markdown                 39 mins             ██████████░░░░░░░░░░░░░░░   40.37 % 
+JavaScript               29 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
+JSON                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        ██████████████████████░░░   87.11 % 
-Codex Vscode             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-OpenCode                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+VS Code                  1 hr 33 mins        ████████████████████████░   96.55 % 
+OpenCode                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (100.0%)
+⏱ AI Coding Time: 1 hr 37 mins (100.0%)
 
-✍️ 1,463 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 906 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 940,014 Input Tokens, 162,107 Output Tokens
+🔤 629,512 Input Tokens, 123,824 Output Tokens
 
-💵 $11.31 Estimated AI Cost This Week
+💵 $5.59 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 40 AI Prompts
+🧠 5 AI Sessions, 27 AI Prompts
 
-GPT                      942 lines           ████████████████░░░░░░░░░   64.34 % 
-GLM                      512 lines           █████████░░░░░░░░░░░░░░░░   34.97 % 
-DeepSeek                 10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      896 lines           █████████████████████████   98.90 % 
+DeepSeek                 10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,612 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 54 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/10/2026 04:42:47 UTC
+ Last Updated on 24/10/2026 04:30:06 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
