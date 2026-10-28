@@ -37,20 +37,43 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 46 mins       ██████████████░░░░░░░░░░░   56.61 % 
+TypeScript               56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Astro                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 36 mins       ████████████████████████░   94.11 % 
+OpenCode                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 54 mins (100.0%)
+
+✍️ 2,844 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,458,976 Input Tokens, 428,072 Output Tokens
+
+💵 $29.12 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 47 AI Prompts
+
+GPT                      2,259 lines         ███████████████████░░░░░░   75.20 % 
+DeepSeek                 383 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+GLM                      362 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 41 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 04:57:30 UTC
+ Last Updated on 28/10/2026 05:33:14 UTC
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://komarev.com/ghpvc/?username=akelio-zhang&label=PROFILE+VIEWS&style=for-the-badge)
